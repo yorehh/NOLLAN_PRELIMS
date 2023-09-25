@@ -1,0 +1,4 @@
+[MN1]
+192.168.56.102 ansible_python_interpreter=/usr/bin/python3
+[MN2CentOS]
+ynollan@192.168.56.105 ansible_python_interpreter=/usr/bin/python3
